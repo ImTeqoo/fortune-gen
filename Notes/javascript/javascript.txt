@@ -1,0 +1,64 @@
+//javascript
+http://slides.com/ifang/javascriptbasics 
+//uses PEMDAS
+
+
+//This is a string
+var myName = "jon"
+//12312JCK32 must be in quotes (treated as string since contains numbers and letters)
+
+//This is a number
+var myAge = "12"
+
+//This is a boolean
+	
+var booleanExample = "true"
+
+//Unassigned variable
+
+//Not a number
+	NaN
+
+//not array
+
+//object
+
+var Camelcase
+	//var cannot contain spaces
+
+
+
+var firstname = "Talon"
+var lastname = "Navarez"
+var age = "17"
+var dylan = "hella cool"
+console.log("Talon"+"Navarez");
+console.log(firstname + lastname + "is" + age);
+console.log(dylan);
+
+//Conditional Statements
+var cat = "Mr. Whiskers";
+
+if (cat == "Reynald") {
+    console.log("died in a tragic car accident");
+} else if (cat == "Sammy") {
+    console.log("killed in a violent fight");
+} else if (cat == "Mikey") {
+    console.log("went up in flames in a gas station explosion");
+} else {
+    console.log("was gluttonous, and choked on a fish bone");
+}
+
+
+// = Vs. ==
+	//= is for assignment
+	//== checks for equality of teo expressions
+var x = 5;
+var y = 4; 
+
+
+console.log(x==y);
+
+x = y;
+
+console.log(x);

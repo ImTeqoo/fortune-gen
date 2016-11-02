@@ -1,0 +1,26 @@
+1. Explain Responsive Design- Content on page adjust to page size
+	a. Google
+	b. Facebook
+	c. Instagram
+	d. Wikipedia
+2.Find one resource of grid based web design- 
+3.Explain media queries- CSS module used to adapt content to page "breakpoints"
+4. Give an example of a media query in code for medium screens-
+	@media screen 
+  and (device-width: 320px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 2) {
+  }
+5. What is em- Unit of measure of the type size being used.
+	a. unit of measure equal to twelve points
+	b. When using responsive design use em
+	c. When not using a responsive design use px
+	d. Multiply by 1.5 (150%) to convert px to em
+6. Give an example abd explain pseudo class selectors- Define a special state
+	a. Hover
+	b. Before & After
+	c. Focus
+7. What is mobile design- Fits a mobile device first
+	a. Media queries are a must (makes things look pretty)
+		1. Instagram
+8. What is specificity- Quality/condition of being specific

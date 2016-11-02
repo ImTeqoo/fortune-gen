@@ -1,0 +1,44 @@
+body {
+	background-color: white;
+}
+header h1 {
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
+	background-color: black;
+}
+.block {
+	height: auto;
+	background-color: black;
+	color: white;
+	margin: 10px auto;
+	padding: 10px;
+	text-align: center;
+}
+
+.block {
+	box-sizing: border-box;
+	display: inline-block;
+	width: 30%;
+}
+
+@media only screen and (min-width: 100px) and (max-width: 420px) {
+	body {
+		background-color: red;
+	}
+}
+
+@media only screen and (min-width: 760px) and (max-width: 1020px) {
+	body {
+		background-color: blue;
+	}
+}
+
+@media only screen and (min-width: 1021px) and (max-width: 1200px) {
+	body {
+		background-color: red;
+	}
+}
+
