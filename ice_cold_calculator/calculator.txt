@@ -1,0 +1,16 @@
+//Ice Cold Calculator//
+	function calculator (a,b,c){
+		if(a == "add"){
+			console.log(b + c)
+		}
+		else if(a == "subtract"){
+			console.log(b - c)
+		}
+		else if(a == "multiply"){
+			console.log(b * c)
+		}
+		else if(a == "divide"){
+			console.log(b / c)
+		}
+	}calculator("subtract",10,7)	
+
