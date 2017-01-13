@@ -1,0 +1,17 @@
+
+.Fortune-cookie-thing{
+	width: 300px;
+	height: 100px;
+	background-color: red;
+    border: 25px;
+    padding: 25px;
+    margin:0 auto 5px;
+}
+#previous-fortunes{
+	width: 300px;
+	height: 100px;
+	background-color: salmon;
+	margin:0 auto 5px;
+	border: 3px solid #000;
+	padding: 20px;
+}
