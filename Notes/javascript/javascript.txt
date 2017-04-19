@@ -62,3 +62,25 @@ console.log(x==y);
 x = y;
 
 console.log(x);
+
+&&
+||
+<
+>
+!
+
+
+
+var degreeoutside = 70;
+var numberofclouds = 50;
+
+function isItRaining(degreeoutside, numberofclouds){
+	if(degreeoutside > 70 && numberofclouds >50){
+		return console.log('it is raining outside');
+	}
+}
+
+isItRaining(50,20)
+
+
+

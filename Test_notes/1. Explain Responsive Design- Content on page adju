@@ -11,8 +11,7 @@
   and (device-height: 640px) 
   and (-webkit-device-pixel-ratio: 2) {
   }
-5. What is em- Unit of measure of the type size being used.
-	a. unit of measure equal to twelve points
+  nts
 	b. When using responsive design use em
 	c. When not using a responsive design use px
 	d. Multiply by 1.5 (150%) to convert px to em

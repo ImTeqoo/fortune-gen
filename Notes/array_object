@@ -1,0 +1,10 @@
+var tan = ['john','jon','cool',3,11,7,9,null,undefined, ['no shirt']]
+
+var yoloswag = {
+	isaaha : "beast"
+	hair : "sunshine"
+	sayings : ["wait what?","hold me I'm cold","yoloha"]
+	position : "kicker"
+}
+
+console.log(yoloswag)
